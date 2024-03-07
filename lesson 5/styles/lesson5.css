@@ -1,0 +1,50 @@
+.tahoma {
+    font-family: Tahoma;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.arial {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.red {
+    font-family: Arial;
+    font-style: italic;
+    color: red;
+    margin-top: 0;
+}
+
+.course-name {
+    font-family: Verdana;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.course-description {
+    font-family: Verdana;
+    color: grey;
+    margin-top: 0;
+    font-size: 15px;
+}
+
+.course-text {
+    font-family: Verdana;
+    font-size: 15px;
+    width: 280px;
+}
+
+.get-started {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}

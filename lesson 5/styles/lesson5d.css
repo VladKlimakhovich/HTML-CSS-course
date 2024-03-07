@@ -1,0 +1,24 @@
+p {
+    font-family: Arial;
+    text-align: center;
+}
+
+.apple-title {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.apple-text {
+    font-size: 15px;
+}
+
+.more {
+    color: blue;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.more:hover {
+    text-decoration: underline;
+}

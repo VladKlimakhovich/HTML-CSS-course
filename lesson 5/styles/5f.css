@@ -1,0 +1,23 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.price{
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+.currency{
+    color:rgb(100,100,100);
+    font-size:16px;
+}
+.plus{
+    color: green;
+}
+.minus{
+    color:red;
+    
+}
+.hours{
+    margin-top: 10px;
+}

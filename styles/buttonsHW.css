@@ -1,0 +1,121 @@
+.Request-now{
+    background-color: black;
+    color: white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.Request-now:hover{
+    opacity: 0.8;
+    transition: 0.15s;
+}
+.Add-to-cart{
+    background-color: rgb(255,216,20);
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:45px;
+    padding-right:45px;
+    border: none;
+    border-radius: 23px;
+    cursor:pointer;
+    margin-right: 8px;
+}
+
+.Add-to-cart:hover{
+    opacity: 0.8;
+    transition:0.15s;
+}
+
+.Sign-up{
+    background-color: rgb(46,164,79);
+    color: white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:26px;
+    padding-right:26px;
+    border: none;
+    border-radius: 6px;
+    cursor:pointer;
+    margin-right: 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.Get-started{
+    background-color: rgb(121, 82, 179);
+    color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:16px;
+    padding-right:16px;
+    border: none;
+    border-radius: 4px;
+    cursor:pointer;
+    margin-top: 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.Download{
+    background-color: white;
+    color:rgb(108, 117, 125);
+    border-color: rgb(108, 117, 125);
+    padding-top:8.4px;
+    padding-bottom:8.4px;
+    padding-left:16px;
+    padding-right:16px;    
+    border-radius: 4px;
+    cursor:pointer;
+    margin-top: 8px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.download:hover{
+    background-color: rgb(108, 117, 125);
+    color: white;
+    transition: 0.15s;
+}
+.Apply-website{
+    background-color: rgb(10,102, 194);
+    color: white;
+    border:none;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:36px;
+    padding-right:36px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor:pointer;
+    margin-left:8px;
+}
+
+.Apply-website:hover{
+    background-color: rgb(15, 60, 105);
+    transition:0.15s;
+}
+
+.Save{
+    background-color: white;
+    color: rgb(10,102, 194);
+    border-color: rgb(10,102, 194);
+    padding-top:8.4px;
+    padding-bottom:8.4px;
+    padding-left:16px;
+    padding-right:16px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor:pointer;
+    margin-left:8px;
+    margin-top: 8px;
+}
+
+.Save:hover{
+    background-color: rgb(210, 210, 255);
+    border-width: 2px;
+    transition: 0.15s;
+}
